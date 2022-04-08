@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "message": "Request fulfilled",
+    "data": [
+        {
+            "chain": "Ethereum",
+            "contract": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "name": "Binance USD",
+            "code": "BUSD",
+            "prefix": "",
+            "suffix": " BUSD",
+            "decimals": 18,
+            "price": "1.00",
+            "buy": "1.00",
+            "sell": "1.00"
+        },
+        {
+            "chain": "Tron",
+            "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "name": "Tether USDT",
+            "code": "USDT",
+            "prefix": "",
+            "suffix": " USDT",
+            "decimals": 6,
+            "price": "1.00",
+            "buy": "1.00",
+            "sell": "1.00"
+        }
+    ]
+}

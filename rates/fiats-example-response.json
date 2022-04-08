@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "message": "Request fulfilled",
+    "data": [
+        {
+            "name": "United States Dollar",
+            "code": "USD",
+            "prefix": "$",
+            "suffix": " USD",
+            "decimals": 2,
+            "price": "1.00",
+            "buy": "1.00",
+            "sell": "1.00"
+        },
+        {
+            "name": "Euro",
+            "code": "EUR",
+            "prefix": "€",
+            "suffix": " EUR",
+            "decimals": 2,
+            "price": "1.14",
+            "buy": "1.14",
+            "sell": "1.14"
+        }
+    ]
+}
